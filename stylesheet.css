@@ -1,0 +1,17 @@
+.jumbotron{
+    background-color: black;
+    color:gold;
+}
+.col-sm-12{
+    border-style: dotted;
+    color: gold;
+    background-color: transparent;
+}
+row{
+    background-color: transparent;
+}
+body{
+    background-color: black
+}
+
+
